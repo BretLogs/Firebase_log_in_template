@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "345308746568",
+    "project_id": "starubigaz",
+    "storage_bucket": "starubigaz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345308746568:android:29abc7004212470bfb197d",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzpKHHRC7UUmjfZ5y2cLYxFaakXoj0Qsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345308746568:android:0d98f6017c60e600fb197d",
+        "android_client_info": {
+          "package_name": "com.example.ml_kit_integration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzpKHHRC7UUmjfZ5y2cLYxFaakXoj0Qsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
